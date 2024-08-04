@@ -28,5 +28,6 @@
 
 Необходимо добавить полученные данные в конфигурацию, поле Environment variables, как показано на картинке ниже.
 
-![image](https://github.com/user-attachments/assets/e76cfd39-2866-451f-9752-3ff93d258d22)
+![image](https://github.com/user-attachments/assets/a591c187-fb70-4bf4-b4e4-7840f7dc35d6)
+
 
