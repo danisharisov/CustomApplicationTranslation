@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28299554/README.md)
 # Translation App
 
 ## Описание
